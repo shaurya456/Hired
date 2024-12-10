@@ -68,11 +68,11 @@ This project uses multiple tools and services. To set up the project locally, en
 
 Recruiter: Dummy@gmail.com
 
-Password: Sh@swat123
+Password: Sh@urya123
 
 Candidate: Dummy1@gmail.com
 
-Password: Sh@swat123
+Password: Sh@urya123
 
 
 ## Installation & Running Locally
@@ -121,12 +121,9 @@ Password: Sh@swat123
 - **Application Management**: Track application progress (e.g., applied, interviewing, hired, rejected).
 
 
-## Deployment
-
-This application is deployed on *Vercel*. Live Link: [https://hired-dusky.vercel.app]
 
 
 ## Contact 
 
-If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/shaswat-gusain-2924a324a) or [Email](shaswatgusain1@gmail.com).
+If you have any doubt or want to contribute feel free to email me or hit me up on [Email](shauryabelwal820@gmail.com).
 

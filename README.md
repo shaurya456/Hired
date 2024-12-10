@@ -125,5 +125,5 @@ Password: Sh@urya123
 
 ## Contact 
 
-If you have any doubt or want to contribute feel free to email me or hit me up on [Email](shauryabelwal820@gmail.com).
+If you have any doubt or want to contribute feel free to email me or hit me up on [Email](belwalshaurya820@gmail.com).
 
